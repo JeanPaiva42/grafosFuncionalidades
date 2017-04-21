@@ -1,0 +1,6 @@
+Arvore de busca em Largura a partir do vértice 1
+1: 7->9->2->
+7: 
+9: 3->
+2: 
+3: 

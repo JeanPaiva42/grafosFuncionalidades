@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1481064556 source:c:\users\android\documents\grafosfinal\main.cpp
+	<iostream>
+	"include/Grafo.h"
+
+1481064556 rafo.h"
+
+1481062879 source:c:\users\android\documents\grafosfinal\src\aresta.cpp
+	"Aresta.h"
+
+1481062837 
+
+1481062863 c:\users\android\documents\grafosfinal\include\aresta.h
+
+1481062827 source:c:\users\android\documents\grafosfinal\src\grafo.cpp
+	"Grafo.h"
+
+1481062837 c:\users\android\documents\grafosfinal\include\grafo.h
+	"Aresta.h"
+	"No.h"
+	<iostream>
+	"stdio.h"
+	<fstream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<limits>
+
+1481062799 c:\users\android\documents\grafosfinal\include\no.h
+	<iostream>
+	<list>
+	"Aresta.h"
+
+1481062905 source:c:\users\android\documents\grafosfinal\src\no.cpp
+	"No.h"
+	<iostream>
+
+1481074453 source:/Users/Livia/Desktop/GrafosFinal/main.cpp
+	<iostream>
+	"include/Grafo.h"
+
+1481072449 /Users/Livia/Desktop/GrafosFinal/include/Grafo.h
+	"Aresta.h"
+	"No.h"
+	<iostream>
+	"stdio.h"
+	<fstream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<limits>
+
+1481059264 /Users/Livia/Desktop/GrafosFinal/include/Aresta.h
+
+1481059200 /Users/Livia/Desktop/GrafosFinal/include/No.h
+	<iostream>
+	<list>
+	"Aresta.h"
+
+1481059280 source:/Users/Livia/Desktop/GrafosFinal/src/Aresta.cpp
+	"Aresta.h"
+
+1481067590 source:/Users/Livia/Desktop/GrafosFinal/src/Grafo.cpp
+	"Grafo.h"
+
+1481059306 source:/Users/Livia/Desktop/GrafosFinal/src/No.cpp
+	"No.h"
+	<iostream>
+
+1481067252 source:/ice/GrafosFinal/main.cpp
+	<iostream>
+	"include/Grafo.h"
+
+1481313501 /ice/GrafosFinal/include/Grafo.h
+	"Aresta.h"
+	"No.h"
+	<iostream>
+	"stdio.h"
+	<fstream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<limits>
+
+1481052064 /ice/GrafosFinal/include/Aresta.h
+
+1481305443 /ice/GrafosFinal/include/No.h
+	<iostream>
+	<list>
+	"Aresta.h"
+
+1481052080 source:/ice/GrafosFinal/src/Aresta.cpp
+	"Aresta.h"
+
+1481308305 source:/ice/GrafosFinal/src/Grafo.cpp
+	"Grafo.h"
+
+1481308321 source:/ice/GrafosFinal/src/No.cpp
+	"No.h"
+	<iostream>
+
+1481482603 source:/home/luccas/Desktop/GrafosFinal/main.cpp
+	<iostream>
+	"Grafo.h"
+
+1481403366 /home/luccas/Desktop/GrafosFinal/include/Grafo.h
+	"Aresta.h"
+	"No.h"
+	<iostream>
+	"stdio.h"
+	<fstream>
+	<string>
+	<algorithm>
+	<queue>
+	<stack>
+	<limits>
+	<cmath>
+
+1481052064 /home/luccas/Desktop/GrafosFinal/include/Aresta.h
+
+1481403387 /home/luccas/Desktop/GrafosFinal/include/No.h
+	<iostream>
+	<list>
+	"Aresta.h"
+
+1481400851 source:/home/luccas/Desktop/GrafosFinal/src/Aresta.cpp
+	"Aresta.h"
+
+1481482097 source:/home/luccas/Desktop/GrafosFinal/src/Grafo.cpp
+	"Grafo.h"
+
+1481479407 source:/home/luccas/Desktop/GrafosFinal/src/No.cpp
+	"No.h"
+	<iostream>
+
+1481589272 source:c:\users\lukka\desktop\grafosfinal\src\aresta.cpp
+	"Aresta.h"
+
+1481612860 source:c:\users\lukka\desktop\grafosfinal\src\grafo.cpp
+	"Grafo.h"
+
+1481595039 source:c:\users\lukka\desktop\grafosfinal\src\no.cpp
+	"No.h"
+	<iostream>
+
+1481612995 source:c:\users\lukka\desktop\grafosfinal\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1481617495 source:c:\users\android\desktop\grafofinakfinal\grafosfinal\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1481589274 source:c:\users\android\desktop\grafofinakfinal\grafosfinal\src\aresta.cpp
+	"Aresta.h"
+
+1481615331 source:c:\users\android\desktop\grafofinakfinal\grafosfinal\src\grafo.cpp
+	"Grafo.h"
+
+1481595040 source:c:\users\android\desktop\grafofinakfinal\grafosfinal\src\no.cpp
+	"No.h"
+	<iostream>
+
+1483219683 source:c:\users\android\desktop\trabalho grafos\grafosfinal\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1481589274 source:c:\users\android\desktop\trabalho grafos\grafosfinal\src\aresta.cpp
+	"Aresta.h"
+
+1483221514 source:c:\users\android\desktop\trabalho grafos\grafosfinal\src\grafo.cpp
+	"Grafo.h"
+
+1481595040 source:c:\users\android\desktop\trabalho grafos\grafosfinal\src\no.cpp
+	"No.h"
+	<iostream>
+
